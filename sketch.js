@@ -36,8 +36,8 @@ function draw() {
 	paper1.body.position.velocityY = 0;
   }
   groundObject.display();
-  paper1.display();
   dustbinObj.display();
+  paper1.display();
 }
 
 
